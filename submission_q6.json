@@ -1,0 +1,6 @@
+{
+  "prompt": "A diptych image showing two painters working side by side in a realistic studio setting. On the left panel, a painter creates a blurry, unclear image using thousands of small, dull, evenly sized dots with no emphasis. On the right panel, another painter creates a vivid, clear image using fewer dots, where a few dots are larger, brighter, and glowing, guiding the entire composition. Both scenes are physically realistic, cinematic lighting, high detail, painterly texture, no text, no labels",
+  "model": "Nano Banana (Google Gemini 2.5 Flash - Free-tier)",
+  "concept": "feature importance",
+  "metaphor": "Two painters: one uses many equal dots producing a blurry image, the other uses a few brighter dots to create clarity, showing that some features matter more than others."
+}
